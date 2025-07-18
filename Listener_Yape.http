@@ -1,0 +1,6 @@
+@Listener_Yape_HostAddress = http://localhost:5058
+
+GET {{Listener_Yape_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
